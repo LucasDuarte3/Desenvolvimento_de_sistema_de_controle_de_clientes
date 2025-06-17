@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\bin\Debug\net9.0\SA2-Atividade1.exe
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\bin\Debug\net9.0\SA2-Atividade1.deps.json
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\bin\Debug\net9.0\SA2-Atividade1.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\bin\Debug\net9.0\SA2-Atividade1.dll
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\bin\Debug\net9.0\SA2-Atividade1.pdb
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\SA2-Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\SA2-Atividade1.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\SA2-Atividade1.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\SA2-Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\SA2-Atividade1.dll
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\refint\SA2-Atividade1.dll
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\SA2-Atividade1.pdb
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\SA2-Atividade1.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\SA2-Atividade1\obj\Debug\net9.0\ref\SA2-Atividade1.dll

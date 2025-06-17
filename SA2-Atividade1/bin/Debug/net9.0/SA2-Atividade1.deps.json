@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SA2-Atividade1/1.0.0": {
+        "runtime": {
+          "SA2-Atividade1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SA2-Atividade1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
