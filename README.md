@@ -1,1 +1,1 @@
-# Desenvolvimento_de_sistema_de_controle_de_clientes
+# SA2 Atividade 1: Desenvolvimento de sistema de controle de clientes
